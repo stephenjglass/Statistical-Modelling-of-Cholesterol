@@ -33,5 +33,5 @@ The analysis identified several demographic and lifestyle variables associated w
 
 The full project report contains the detailed exploratory analysis, model development, diagnostics, results and conclusions.
 
-**[View the full report](report/CAD_Statistical_Modelling.pdf)**
+**[View the full report](Cholesterol_report.pdf)**
 
